@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>404 Page not found</title>
+<title>Game Programming Lab Project: GPP</title>
 <meta name="description" content="Describe your website">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -104,8 +104,52 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-        <h1>Page not found</h1>
-        <p><a href="https://example.org/">Return to the home page</a>.</p>
+         <h1>Game Programming Lab Project: GPP</h1>
+         <p>This project was part of my Bachelors degree in Computer Science. Originally intended as a small game project&hellip;</p>
+
+<p>&hellip;my team very quickly settled on a small, self contained tech demo, considering how that would allow to completely focus on the important bits: The tech. As a team of five, we set ourselves an ambitious goal - a showroom like demo featuring a custom physics engine with support for dynamic deformation, nicely brought to screen by a physically based renderer through an extensive post processing stack.
+Unfortunately, health issues of one member of the team lead to the physics engine having to be cut, however we still managed to get quite an extensive array of features done.</p>
+
+<h3 id="features">Features</h3>
+
+<p>Here&rsquo;s a few of the graphics features I personally worked on:</p>
+
+<ul>
+<li>Physically based material rendering, following the UE4 shading model as described in <a href="https://blog.selfshadow.com/publications/s2013-shading-course/karis/s2013_pbs_epic_notes_v2.pdf">the 2013 Siggraph course</a>.</li>
+<li>Global illumination approximation using Image Based Lighting.</li>
+<li>Post processing stack including image based lens flares, HDR bloom + tone mapping and colorization and vignette stylization effects.</li>
+<li>Realtime analytic light sources - point lights, spot lights and directional lights - and fully linear lighting.</li>
+<li>Fully deferred renderer (using clustered light culling as mentioned below).</li>
+</ul>
+
+<p>Besides these, I was also responsible for a lot of the core architecture of both the renderer as well as the entire application and systems tangential to rendering, including the following aspects:</p>
+
+<ul>
+<li>Node based scene hierarchy system supporting dynamic composition of scene objects through node attachments.</li>
+<li>Optimized GPU memory management for geometry buffers in OpenGL using growable pools of buffer objects.</li>
+<li>Runtime resource management framework supporting easy extension with more resource types as well as request caching at runtime.</li>
+<li>In-engine tooling framework using the fantastic <a href="https://github.com/ocornut/imgui">dear imgui</a> library.</li>
+<li>In-engine tools for material creation, scene manipulation and object editing.</li>
+<li>In-engine debugging tools with visualization of render pipeline stages, quality settings and lots of exposed variables to tweak.</li>
+</ul>
+
+<p>Other than my personal contributions, our final hand-in of course also featured the contributions of my wonderful team members, which included skeletal animations, GPU particle systems, cascaded shadow maps, compute-based clustered light culling and procedural generation of vegetation and planet geometry.</p>
+
+<p>Unfortunately as this project was part of a uni course, the source code is not publicly available.</p>
+
+<h3 id="screenshots">Screenshots</h3>
+
+<p><img src="/img/portfolio/GPP/characterRendering.png" alt="Character Rendering =250x100" />
+<em>Basic PBR rendering working suprisingly well on a character even without proper skin shading.</em> <br />
+<img src="/img/portfolio/GPP/noice.PNG" alt="PBR Materials + IBL" />
+<em>More advanced material showcasing parallax occlusion mapping.</em> <br />
+<img src="/img/portfolio/GPP/filmic.PNG" alt="Filmic PostFX" />
+<em>Some filmic post processing featuring tonemapping, vignette and image based lens flares with lens dirt filter.</em> <br />
+<img src="/img/portfolio/GPP/material_editor.png" alt="Material Editor" />
+<em>A glimpse of the material editor allowing new materials to be created on the fly at runtime.</em> <br />
+<img src="/img/portfolio/GPP/spotlights.PNG" alt="Spotlight" />
+<em>A simple yet gorgeous spotlight.</em></p>
+         
       </div>
     </div>
   </div>
