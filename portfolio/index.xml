@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Skeletal Animation Playground</title>
+      <link>https://JWki.github.io/portfolio/gpu_skinning/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JWki.github.io/portfolio/gpu_skinning/</guid>
+      <description>&lt;p&gt;Writing fancy rendering pipelines is fun, but looking at completely static scenes becomes a bit dull after a while&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Game Programming Lab Project: GPP</title>
       <link>https://JWki.github.io/portfolio/gpp/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
@@ -48,12 +57,12 @@
     </item>
     
     <item>
-      <title>Skeletal Animation Playground</title>
-      <link>https://JWki.github.io/portfolio/gpu_skinning/</link>
+      <title>D3D12 Renderer</title>
+      <link>https://JWki.github.io/portfolio/dx12_renderer/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://JWki.github.io/portfolio/gpu_skinning/</guid>
-      <description>&lt;p&gt;Writing fancy rendering pipelines is fun, but looking at completely static scenes becomes a bit dull after a while&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://JWki.github.io/portfolio/dx12_renderer/</guid>
+      <description>&lt;p&gt;No better way to learn a new graphics API than to use it!&lt;/p&gt;</description>
     </item>
     
   </channel>
