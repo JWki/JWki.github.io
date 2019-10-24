@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on Jascha Wedowski Programming Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JWki.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,19 +14,46 @@
     <item>
       <title>Yet another renderer: Locust</title>
       <link>https://JWki.github.io/portfolio/locust/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://JWki.github.io/portfolio/locust/</guid>
       <description>&lt;p&gt;Another one of those projects that every engine/graphics programming enthusiast has probably filled entire hard drives with&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>First Person Shooter Techdemo</title>
+      <link>https://JWki.github.io/portfolio/fps/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JWki.github.io/portfolio/fps/</guid>
+      <description>&lt;p&gt;Another attempt at making something with actual gameplay&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Game Programming Lab Project: GPP</title>
       <link>https://JWki.github.io/portfolio/gpp/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://JWki.github.io/portfolio/gpp/</guid>
       <description>&lt;p&gt;This project was part of my Bachelors degree in Computer Science. Originally intended as a small game project&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Brush Level Editor</title>
+      <link>https://JWki.github.io/portfolio/level_editor/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JWki.github.io/portfolio/level_editor/</guid>
+      <description>&lt;p&gt;An important part of any engine are the world building tools&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Skeletal Animation Playground</title>
+      <link>https://JWki.github.io/portfolio/gpu_skinning/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JWki.github.io/portfolio/gpu_skinning/</guid>
+      <description>&lt;p&gt;Writing fancy rendering pipelines is fun, but looking at completely static scenes becomes a bit dull after a while&amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>
