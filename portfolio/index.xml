@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on Jascha Wedowski&#39;s Programming Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JWki.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -54,6 +54,15 @@
       
       <guid>https://JWki.github.io/portfolio/level_editor/</guid>
       <description>&lt;p&gt;An important part of any engine are the world building tools&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VR Lab Project: Riftblade</title>
+      <link>https://JWki.github.io/portfolio/vr_lab/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JWki.github.io/portfolio/vr_lab/</guid>
+      <description>&lt;p&gt;Another university project that was part of my Bachelors degree&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
