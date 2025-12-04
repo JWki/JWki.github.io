@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://JWki.github.io/portfolio/toyrt/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JWki.github.io/portfolio/studio/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JWki.github.io/portfolio/terrain/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://JWki.github.io/portfolio/locust/</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
   </url>

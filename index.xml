@@ -12,6 +12,33 @@
     
     
     <item>
+      <title>Compute Toy Pathtracer</title>
+      <link>https://JWki.github.io/portfolio/toyrt/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JWki.github.io/portfolio/toyrt/</guid>
+      <description>&lt;p&gt;A small toy path tracer&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Studio App</title>
+      <link>https://JWki.github.io/portfolio/studio/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JWki.github.io/portfolio/studio/</guid>
+      <description>&lt;p&gt;An, uhm, DCC? experiment&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Terrain Engine</title>
+      <link>https://JWki.github.io/portfolio/terrain/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JWki.github.io/portfolio/terrain/</guid>
+      <description>&lt;p&gt;More world building tools&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Yet another renderer: Locust</title>
       <link>https://JWki.github.io/portfolio/locust/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
